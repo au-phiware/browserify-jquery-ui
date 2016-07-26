@@ -16,12 +16,10 @@
   },
   "author": "Jörn Zaefferer",
   "license": "MIT",
-  "dependencies": {
-    "jquery": "^2.1.4",
-    "jquery-ui": "jquery/jquery-ui#master"
-  },
   "devDependencies": {
     "browserify": "^11.2.0",
-    "deamdify": "^0.1.1"
+    "deamdify": "au-phiware/deamdify",
+    "jquery": "^2.1.4",
+    "jquery-ui": "jquery/jquery-ui#master"
   }
 }
